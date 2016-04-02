@@ -70,7 +70,7 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #3DC7F5;
 }
 
 .footer-container,
@@ -81,7 +81,7 @@ body {
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #3f3f3f;
 }
 
 .title {
